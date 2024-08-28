@@ -1,4 +1,4 @@
-# Advanced-Avalanche_Module-1
+# AVALANCHE ADVANCE MODULE-1
 
 ## Steps to deploy the project:
 
@@ -43,8 +43,8 @@ Currency Symbol:   PRO
 
 
 ## Author
-Pratap Singh
-[@pratapsingh24](https://github.com/pratapsingh24/)
+HIMANSHU RAJAK
+[@HIMANSHU RAJAK](https://github.com/himanshkr03/)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
